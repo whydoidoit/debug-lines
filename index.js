@@ -1,4 +1,4 @@
-import {V} from 'working'
+import {V} from 'playcanvas-working-vectors'
 
 let nextColor = 0
 let colors = [
